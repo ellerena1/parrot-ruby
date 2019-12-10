@@ -8,4 +8,4 @@ def parrot(phrase)
   return phrase
 end
 
-parriot("aysan")
+parriot("squawk")
