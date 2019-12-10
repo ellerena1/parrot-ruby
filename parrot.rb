@@ -3,15 +3,6 @@
 
 
 
-#what are arguments
-
-name = "aysan"
-
-
-
-def exampla(name)
-  puts name
-end 
-
-example(name) 
-
+def parrot
+  
+end
